@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MySize</string>
+    <string name="Save">保存</string>
+    <string name="sintyo">身長</string>
 </resources>
